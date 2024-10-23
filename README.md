@@ -15,7 +15,7 @@ Our models are based on the UNet architecture, a convolutional neural network co
 To accommodate the larger image size of the Flower102 dataset (256x256), we modified the UNet architecture with an additional layer of downsampling and upsampling. This allowed the model to extract more detailed features necessary for better colorization results.
 
 ## Results and Observations
-
+ 
 ### Visual Results
 ![Test Result](visualization_result.png)
 
